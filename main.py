@@ -5,7 +5,7 @@ def diff(a, b):
   return a - b;
 
 a = 10;
-b = 5;
+b = 6;
 
 print(sum(a, b));
 print(diff(a, b));
